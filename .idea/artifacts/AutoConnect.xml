@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoConnect">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoConnect</output-path>
+    <root id="archive" name="AutoConnect.jar">
+      <element id="module-output" name="AutoConnect" />
+      <element id="library" level="project" name="libs" />
+    </root>
+  </artifact>
+</component>
